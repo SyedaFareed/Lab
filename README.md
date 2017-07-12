@@ -1,2 +1,2 @@
-# Lab 2 SEECS NUST
+# Lab 2 
 Restaurant Reservation System
