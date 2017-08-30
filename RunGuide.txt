@@ -1,0 +1,2 @@
+Installation and Run Guide
+Import the project into your IDE. You will have to connect to MySql and create a database named structure. Connect to the database and run the project accordingly.
